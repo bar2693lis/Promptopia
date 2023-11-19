@@ -3,12 +3,11 @@ import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Footer from "@components/Footer";
 import Provider from "@components/Provider";
-// import Favicon from '/public/images/Metadata/favicon.ico';
 import Favicon from "@public/assets/favicon.ico";
 
 export const metadata = {
   title: "Promptopia",
-  description: "Dicover & Share AI Prompts",
+  description: "Discover & Share AI Prompts",
   icons: [{ rel: "icon", url: Favicon.src }],
 };
 
