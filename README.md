@@ -2,7 +2,11 @@
 
 ## Description
 
-This project is a web application built with Next.js and React. It allows users to search for prompts by tag or username.
+This project is a web application built with Next.js and React. It allows users to search for prompts by tag or username. The application is deployed on Vercel.
+
+## Live Website
+
+You can access the live website at https://promptopia-8fn2ct9ew-barlis-projects.vercel.app/
 
 ## Technologies Used
 
