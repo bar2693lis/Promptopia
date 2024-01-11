@@ -1,4 +1,5 @@
 # Promptopia
+![Screenshot 2024-01-11 at 17 40 03](https://github.com/bar2693lis/Promptopia/assets/48059962/57e32d54-e032-4171-9fcb-784f85409b08)
 
 ## Description
 
